@@ -35,9 +35,9 @@
 
 ### 逻辑示意图
 
-![FBKVOController示意图](images/FBKVOController *KVOController.png)
+![示意图](images/KVOController.png)
 
-![_FBKVOSharedController示意图](images/_FBKVOSharedController *sharedController.png)
+![示意图](images/sharedController.png)
 
 ### NSObject+FBKVOController
 
